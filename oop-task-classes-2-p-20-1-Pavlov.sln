@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-task-1-console", "oop-task-1-console\oop-task-1-console.csproj", "{EC6096FE-E112-4C93-8FD0-457DC3EDBCA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop-task-1-console", "oop-task-1-console\oop-task-1-console.csproj", "{EC6096FE-E112-4C93-8FD0-457DC3EDBCA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-task-2-console", "oop-task-2-console\oop-task-2-console.csproj", "{7E5A0CCB-D520-4565-B441-63A6BF899AFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oop-task-2-console", "oop-task-2-console\oop-task-2-console.csproj", "{7E5A0CCB-D520-4565-B441-63A6BF899AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-task-3-console", "oop-task-3-console\oop-task-3-console.csproj", "{394B887B-3F9B-4496-A2FD-E415614784CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7E5A0CCB-D520-4565-B441-63A6BF899AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E5A0CCB-D520-4565-B441-63A6BF899AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E5A0CCB-D520-4565-B441-63A6BF899AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394B887B-3F9B-4496-A2FD-E415614784CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394B887B-3F9B-4496-A2FD-E415614784CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394B887B-3F9B-4496-A2FD-E415614784CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394B887B-3F9B-4496-A2FD-E415614784CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
